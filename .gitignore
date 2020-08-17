@@ -1,0 +1,15 @@
+/crash-reports/
+/downloads/
+/journeymap/
+/logs/
+/saves/
+/screenshots/
+/.mixin.out/
+/config/BiomeTweaker/output/
+
+*.log
+.curseclient
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
