@@ -1,0 +1,15 @@
+{
+	x: 12.0d,
+	y: -1.0d,
+	dependencies: [
+		"1e9ea7c6"
+	],
+	tasks: [{
+		uid: "542b4783",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}],
+		count: 12L
+	}]
+}

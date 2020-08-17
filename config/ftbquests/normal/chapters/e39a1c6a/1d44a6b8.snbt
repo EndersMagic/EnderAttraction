@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	dependencies: [
+		"bb4b810b"
+	],
+	tasks: [{
+		uid: "928485e4",
+		type: "item",
+		title: "Any oreIron",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 12L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	dependencies: [
+		"6c10ca25"
+	],
+	tasks: [{
+		uid: "9b642718",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strength"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

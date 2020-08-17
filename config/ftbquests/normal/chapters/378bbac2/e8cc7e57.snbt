@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"4b805381"
+	],
+	tasks: [{
+		uid: "ec3174ff",
+		type: "item",
+		items: [{
+			item: "eplus:advanced_table"
+		}]
+	}]
+}

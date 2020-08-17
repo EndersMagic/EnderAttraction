@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "00e1f524",
+		type: "item",
+		title: "Any logWood",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 16L
+	}]
+}

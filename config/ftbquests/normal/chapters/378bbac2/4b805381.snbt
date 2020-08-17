@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"c41a4606"
+	],
+	tasks: [{
+		uid: "d0eeed95",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	},
+	{
+		uid: "2b845c46",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 4"
+		}],
+		count: 32L
+	}]
+}

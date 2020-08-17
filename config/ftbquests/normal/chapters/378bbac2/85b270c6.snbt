@@ -1,0 +1,15 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	dependencies: [
+		"c41a4606"
+	],
+	tasks: [{
+		uid: "117c5f4d",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 24L
+	}]
+}

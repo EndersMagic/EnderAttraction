@@ -1,0 +1,37 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	dependencies: [
+		"cb5b4798"
+	],
+	tasks: [{
+		uid: "117a534c",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}]
+	},
+	{
+		uid: "94ada88b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}]
+	},
+	{
+		uid: "e51f1b01",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tough_tool_rod"
+			}
+		}]
+	}]
+}
