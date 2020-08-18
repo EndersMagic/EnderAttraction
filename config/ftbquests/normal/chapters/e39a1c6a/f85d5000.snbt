@@ -10,5 +10,11 @@
 		items: [{
 			item: "enderio:block_simple_sag_mill"
 		}]
+	}],
+	rewards: [{
+		uid: "a23b4b29",
+		type: "item",
+		item: "minecraft:iron_ore",
+		count: 16
 	}]
 }

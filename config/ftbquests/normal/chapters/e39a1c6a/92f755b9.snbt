@@ -1,0 +1,25 @@
+{
+	x: 20.5d,
+	y: 3.0d,
+	dependencies: [
+		"fd326d11"
+	],
+	tasks: [{
+		uid: "203b2625",
+		type: "item",
+		items: [{
+			item: "enderio:block_dark_steel_anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "8f3d5956",
+		type: "xp_levels",
+		xp_levels: 6
+	},
+	{
+		uid: "a3715ab6",
+		type: "item",
+		item: "enderio:item_dark_steel_upgrade",
+		count: 3
+	}]
+}

@@ -1,20 +1,21 @@
 {
-	x: 7.0d,
-	y: 1.0d,
+	x: 15.5d,
+	y: 2.0d,
 	dependencies: [
-		"f85d5000"
+		"1c2dfe12"
 	],
 	tasks: [{
-		uid: "6b5ca0a9",
+		uid: "ae826cd0",
 		type: "item",
 		items: [{
-			item: "enderio:block_simple_alloy_smelter"
-		}]
+			item: "enderio:block_solar_panel"
+		}],
+		count: 16L
 	}],
 	rewards: [{
-		uid: "a95a2f30",
+		uid: "78899990",
 		type: "item",
 		item: "enderio:item_power_conduit",
-		count: 4
+		count: 16
 	}]
 }

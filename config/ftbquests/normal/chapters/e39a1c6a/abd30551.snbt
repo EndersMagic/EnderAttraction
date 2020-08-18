@@ -1,0 +1,28 @@
+{
+	x: 12.0d,
+	y: -1.0d,
+	dependencies: [
+		"1e9ea7c6"
+	],
+	tasks: [{
+		uid: "5c2a04ed",
+		type: "item",
+		items: [{
+			item: "ropebridge:ladder_builder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0464c320",
+		type: "item",
+		item: "ropebridge:rope",
+		count: 64
+	},
+	{
+		uid: "489bf79f",
+		type: "item",
+		item: "minecraft:wooden_slab 1 4",
+		count: 64
+	}]
+}

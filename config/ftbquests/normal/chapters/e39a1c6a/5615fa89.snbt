@@ -1,0 +1,25 @@
+{
+	x: 18.5d,
+	y: 7.0d,
+	dependencies: [
+		"f90c6d19"
+	],
+	tasks: [{
+		uid: "2fb8b924",
+		type: "item",
+		items: [{
+			item: "enderio:block_cap_bank 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "07f5c973",
+		type: "item",
+		item: {
+			id: "enderio:block_cap_bank",
+			tag: {
+				"enderio:energy": 1000000
+			},
+			Damage: 1s
+		}
+	}]
+}

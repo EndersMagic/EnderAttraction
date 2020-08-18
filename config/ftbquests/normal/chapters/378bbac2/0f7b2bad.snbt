@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "0f8b9cbb",
+		type: "item",
+		items: [{
+			id: "enderio:item_dark_steel_upgrade",
+			tag: {
+				"enderio:dsu": "enderio:glide"
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7d5c260f",
+		type: "item",
+		items: [{
+			id: "enderio:item_dark_steel_upgrade",
+			tag: {
+				"enderio:dsu": "enderio:travel"
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a5f77644",
+		type: "xp",
+		xp: 10
+	}]
+}

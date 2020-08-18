@@ -61,5 +61,11 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "8169c60d",
+		type: "item",
+		item: "tconstruct:pattern",
+		count: 32
 	}]
 }

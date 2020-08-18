@@ -15,5 +15,10 @@
 			id: "itemfilters:filter"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "9e56e7a8",
+		type: "item",
+		item: "minecraft:iron_axe"
 	}]
 }

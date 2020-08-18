@@ -1,5 +1,5 @@
 {
-	x: 15.5d,
+	x: 18.5d,
 	y: -1.0d,
 	dependencies: [
 		"d3238481"
@@ -10,5 +10,11 @@
 		items: [{
 			item: "minecraft:brewing_stand"
 		}]
+	}],
+	rewards: [{
+		uid: "05ba8406",
+		type: "item",
+		item: "minecraft:redstone",
+		count: 16
 	}]
 }

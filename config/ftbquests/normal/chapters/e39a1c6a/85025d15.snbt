@@ -11,5 +11,11 @@
 			item: "tconstruct:soil"
 		}],
 		count: 64L
+	}],
+	rewards: [{
+		uid: "466f3502",
+		type: "item",
+		item: "minecraft:coal_block",
+		count: 8
 	}]
 }

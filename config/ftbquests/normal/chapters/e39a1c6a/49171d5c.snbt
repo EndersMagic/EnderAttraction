@@ -11,5 +11,11 @@
 			item: "enderio:item_basic_capacitor 1 1"
 		}],
 		count: 8L
+	}],
+	rewards: [{
+		uid: "d33379e9",
+		type: "item",
+		item: "enderio:item_basic_capacitor 1 1",
+		count: 4
 	}]
 }

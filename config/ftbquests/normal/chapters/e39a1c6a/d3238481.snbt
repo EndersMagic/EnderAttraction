@@ -1,8 +1,8 @@
 {
-	x: 12.0d,
+	x: 15.5d,
 	y: -1.0d,
 	dependencies: [
-		"1e9ea7c6"
+		"abd30551"
 	],
 	tasks: [{
 		uid: "542b4783",
@@ -11,5 +11,17 @@
 			item: "minecraft:blaze_rod"
 		}],
 		count: 12L
+	}],
+	rewards: [{
+		uid: "7fb0ce5f",
+		type: "item",
+		item: "minecraft:nether_wart",
+		count: 2
+	},
+	{
+		uid: "b71e6d3d",
+		type: "item",
+		item: "minecraft:soul_sand",
+		count: 2
 	}]
 }

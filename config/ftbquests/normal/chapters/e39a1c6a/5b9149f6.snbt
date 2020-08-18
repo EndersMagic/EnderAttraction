@@ -11,5 +11,11 @@
 			item: "minecraft:diamond"
 		}],
 		count: 3L
+	}],
+	rewards: [{
+		uid: "37ae8fa3",
+		type: "item",
+		item: "minecraft:stick",
+		count: 2
 	}]
 }

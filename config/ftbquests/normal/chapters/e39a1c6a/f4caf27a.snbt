@@ -1,28 +1,28 @@
 {
-	x: 0.5d,
-	y: -1.0d,
+	x: 15.5d,
+	y: 7.5d,
 	dependencies: [
-		"bb4b810b"
+		"3e17cf56"
 	],
 	tasks: [{
-		uid: "928485e4",
+		uid: "26917505",
 		type: "item",
-		title: "Any oreIron",
+		title: "Any dustIron",
 		items: [{
 			ForgeCaps: {
 				Parent: {
-					data: "oreIron",
+					data: "dustIron",
 					id: "ore"
 				}
 			},
 			id: "itemfilters:filter"
 		}],
-		count: 12L
+		count: 32L
 	}],
 	rewards: [{
-		uid: "23cd20e6",
+		uid: "3cb05d18",
 		type: "item",
-		item: "minecraft:coal",
-		count: 10
+		item: "enderio:item_material 1 24",
+		count: 16
 	}]
 }

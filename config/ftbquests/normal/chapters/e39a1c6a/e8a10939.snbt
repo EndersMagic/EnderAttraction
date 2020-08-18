@@ -10,5 +10,11 @@
 		items: [{
 			item: "enderio:block_simple_stirling_generator"
 		}]
+	}],
+	rewards: [{
+		uid: "3825c4a4",
+		type: "item",
+		item: "minecraft:coal 1 1",
+		count: 16
 	}]
 }
