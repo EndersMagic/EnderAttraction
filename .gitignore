@@ -6,6 +6,7 @@
 /screenshots/
 /.mixin.out/
 /config/BiomeTweaker/output/
+/local/
 
 *.log
 .curseclient
