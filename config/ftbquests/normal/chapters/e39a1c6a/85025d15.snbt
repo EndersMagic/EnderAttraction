@@ -1,16 +1,49 @@
 {
-	x: 3.0d,
-	y: -3.0d,
+	x: 0.5d,
+	y: 6.0d,
 	dependencies: [
-		"1d44a6b8"
+		"35523d90"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
-		uid: "b1af5af3",
+		uid: "0f24743a",
 		type: "item",
 		items: [{
-			item: "tconstruct:soil"
+			item: "tconstruct:materials"
 		}],
-		count: 64L
+		count: 128L
+	},
+	{
+		uid: "94c5bff8",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "59440b10",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "466f3502",

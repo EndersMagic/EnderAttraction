@@ -1,6 +1,10 @@
 {
-	x: -2.5d,
+	title: "Tree Puncher",
+	x: -3.0d,
 	y: -1.0d,
+	text: [
+		"Obtain some wood"
+	],
 	tasks: [{
 		uid: "00e1f524",
 		type: "item",

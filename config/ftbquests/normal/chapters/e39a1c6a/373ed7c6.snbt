@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -5.5d,
+	dependencies: [
+		"ea5a5fd6",
+		"e5d55493"
+	],
+	tasks: [{
+		uid: "5dec9181",
+		type: "item",
+		items: [{
+			item: "multibags:bag_upgrade"
+		}]
+	}]
+}

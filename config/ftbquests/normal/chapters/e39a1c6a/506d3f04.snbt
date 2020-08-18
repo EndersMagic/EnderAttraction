@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -7.0d,
+	dependencies: [
+		"373ed7c6"
+	],
+	tasks: [{
+		uid: "ccb9dbf5",
+		type: "item",
+		items: [{
+			item: "multibags:first_bag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
