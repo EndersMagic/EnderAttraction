@@ -1,0 +1,35 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "e9700999",
+		type: "item",
+		items: [{
+			item: "botania:miniisland"
+		}],
+		count: 4L
+	},
+	{
+		uid: "81621ff8",
+		type: "item",
+		items: [{
+			item: "botania:miniisland 1 11"
+		}],
+		count: 4L
+	},
+	{
+		uid: "0799a2c6",
+		type: "item",
+		items: [{
+			item: "botania:miniisland 1 9"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "8cdc66d4",
+		type: "item",
+		auto: "enabled",
+		item: "botania:manaresource 1 23",
+		count: 16
+	}]
+}
