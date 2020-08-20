@@ -1,0 +1,10 @@
+{
+	icon: "minecraft:end_portal_frame",
+	x: 3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "d39a14ae",
+		type: "dimension",
+		dim: 1
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Other way",
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"e8a10939"
+	],
+	tasks: [{
+		uid: "73d2d210",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_atomic_reconstructor"
+		}]
+	}],
+	rewards: [{
+		uid: "f2bf23ab",
+		type: "item",
+		item: "enderio:item_power_conduit",
+		count: 5
+	}]
+}

@@ -1,0 +1,44 @@
+{
+	title: "Empower up!",
+	x: -4.5d,
+	y: 9.5d,
+	dependencies: [
+		"7aa8085b"
+	],
+	tasks: [{
+		uid: "e8c16f52",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_helm_crystal_green"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a2bdf82a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_chest_crystal_green"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "75586200",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_pants_crystal_green"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d482b47e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_boots_crystal_green"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

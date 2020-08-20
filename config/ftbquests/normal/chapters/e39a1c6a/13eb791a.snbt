@@ -1,0 +1,25 @@
+{
+	x: -9.0d,
+	y: 7.0d,
+	dependencies: [
+		"876f91fa"
+	],
+	tasks: [{
+		uid: "0b794216",
+		type: "item",
+		items: [{
+			id: "actuallyadditions:magnet_ring_bauble",
+			tag: {
+				Energy: 200000
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0c4f5ad3",
+		type: "item",
+		item: "minecraft:blaze_powder",
+		count: 64,
+		random_bonus: 64
+	}]
+}

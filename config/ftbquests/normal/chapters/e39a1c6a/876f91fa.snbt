@@ -1,0 +1,23 @@
+{
+	title: "Lord of rings",
+	x: -6.0d,
+	y: 6.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5f58a17d"
+	],
+	tasks: [{
+		uid: "e2166373",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "aab5d9c8",
+		type: "item",
+		item: "actuallyadditions:item_misc 1 19"
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	x: -9.0d,
+	y: 8.0d,
+	dependencies: [
+		"876f91fa"
+	],
+	tasks: [{
+		uid: "03a2e28a",
+		type: "item",
+		items: [{
+			id: "actuallyadditions:item_potion_ring",
+			tag: {
+				Blaze: 800
+			},
+			Damage: 9s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2e76c421",
+		type: "item",
+		item: "minecraft:blaze_powder",
+		count: 64,
+		random_bonus: 64
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 2.0d,
+	dependencies: [
+		"5bf563ae"
+	],
+	tasks: [{
+		uid: "dbcef776",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_laser_relay_advanced"
+		}]
+	}]
+}

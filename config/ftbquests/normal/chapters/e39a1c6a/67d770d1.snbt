@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 9.0d,
+	dependencies: [
+		"7aa8085b"
+	],
+	tasks: [{
+		uid: "2de0b07e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_furnace_solar"
+		}]
+	}]
+}
